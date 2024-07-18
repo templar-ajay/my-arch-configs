@@ -1,0 +1,4 @@
+hack() {
+    code "$@"
+    exit
+}
